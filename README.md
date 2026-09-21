@@ -2,6 +2,8 @@
 
 **A clinical AI application for early detection and severity staging of Diabetic Retinopathy from retinal fundus images using Transfer Learning and Explainable AI.**
 
+**Live Application:** [diabetic-retinopathy-4556.streamlit.app](https://diabetic-retinopathy-4556.streamlit.app/)
+
 ---
 
 ## The Business Problem
@@ -253,6 +255,12 @@ Training configuration parameters — image size, batch size, epoch count, and l
 ---
 
 ## Cloud Deployment
+
+The application is currently live and publicly accessible at:
+
+**[https://diabetic-retinopathy-4556.streamlit.app/](https://diabetic-retinopathy-4556.streamlit.app/)**
+
+No installation is required to use the hosted version. Open the link in any modern browser, select a sample image or upload a retinal scan, and run the analysis directly.
 
 ### Streamlit Cloud
 
